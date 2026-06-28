@@ -1,0 +1,17 @@
+C:/Projects/Learning_Projects/C++/C++_Projects/Pong/build/CMakeFiles/Pong.dir
+C:/Projects/Learning_Projects/C++/C++_Projects/Pong/build/CMakeFiles/edit_cache.dir
+C:/Projects/Learning_Projects/C++/C++_Projects/Pong/build/CMakeFiles/rebuild_cache.dir
+C:/Projects/Learning_Projects/C++/C++_Projects/Pong/build/vendored/SDL/CMakeFiles/SDL3-shared.dir
+C:/Projects/Learning_Projects/C++/C++_Projects/Pong/build/vendored/SDL/CMakeFiles/SDL3_test.dir
+C:/Projects/Learning_Projects/C++/C++_Projects/Pong/build/vendored/SDL/CMakeFiles/SDL_uclibc.dir
+C:/Projects/Learning_Projects/C++/C++_Projects/Pong/build/vendored/SDL/CMakeFiles/edit_cache.dir
+C:/Projects/Learning_Projects/C++/C++_Projects/Pong/build/vendored/SDL/CMakeFiles/rebuild_cache.dir
+C:/Projects/Learning_Projects/C++/C++_Projects/Pong/build/vendored/SDL_mixer/CMakeFiles/SDL3_mixer-shared.dir
+C:/Projects/Learning_Projects/C++/C++_Projects/Pong/build/vendored/SDL_mixer/CMakeFiles/edit_cache.dir
+C:/Projects/Learning_Projects/C++/C++_Projects/Pong/build/vendored/SDL_mixer/CMakeFiles/rebuild_cache.dir
+C:/Projects/Learning_Projects/C++/C++_Projects/Pong/build/vendored/SDL_image/CMakeFiles/SDL3_image-shared.dir
+C:/Projects/Learning_Projects/C++/C++_Projects/Pong/build/vendored/SDL_image/CMakeFiles/edit_cache.dir
+C:/Projects/Learning_Projects/C++/C++_Projects/Pong/build/vendored/SDL_image/CMakeFiles/rebuild_cache.dir
+C:/Projects/Learning_Projects/C++/C++_Projects/Pong/build/vendored/SDL_ttf/CMakeFiles/SDL3_ttf-shared.dir
+C:/Projects/Learning_Projects/C++/C++_Projects/Pong/build/vendored/SDL_ttf/CMakeFiles/edit_cache.dir
+C:/Projects/Learning_Projects/C++/C++_Projects/Pong/build/vendored/SDL_ttf/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Projects/Learning_Projects/C++/C++_Projects/Pong/build/cmake_install.cmake",
+		"C:/Projects/Learning_Projects/C++/C++_Projects/Pong/build/vendored/SDL/cmake_install.cmake",
+		"C:/Projects/Learning_Projects/C++/C++_Projects/Pong/build/vendored/SDL_mixer/cmake_install.cmake",
+		"C:/Projects/Learning_Projects/C++/C++_Projects/Pong/build/vendored/SDL_image/cmake_install.cmake",
+		"C:/Projects/Learning_Projects/C++/C++_Projects/Pong/build/vendored/SDL_ttf/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
