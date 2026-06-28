@@ -45,7 +45,7 @@ int main(int argc, char* argv[]) {
     Ball ball( 350.0f, 250.0f, 10.0f, 10.0f, BALL_SPEED);
 
     float roundDelayTimer = 2.0f;
-    float AIDelayTimer = EASY_DIFFICULTY_MODIFIER;
+    float AIDelayTimer = MEDIUM_DIFFICULTY_MODIFIER;
 
 
     // stride is the amount of data per line object stored in the array
